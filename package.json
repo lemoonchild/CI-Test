@@ -1,0 +1,8 @@
+{
+    "name": "TextHandling",
+    "version": "1.0.0",
+    "main": "src/TextHandling.js",
+    "scripts": {
+        "test": "node --test"
+    }
+}
