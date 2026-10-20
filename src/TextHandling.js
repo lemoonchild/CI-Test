@@ -11,7 +11,7 @@ function countVowels(s) {
 
 function isPalindrome(s) {
   validateString(s, "s");
-  return s === reverse(s);
+  return false;
 }
 
 function toUpper(s) {
